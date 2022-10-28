@@ -139,7 +139,7 @@ li > input[type="text"] {
 }
 
 /* Edit Task */
-input[type=text] {
+ul input[type=text] {
   display: none;
 }
 

@@ -118,7 +118,7 @@ li > label {
   width: 226px;
 }
 li > input[type="text"] {
-  width: 226px
+  width: 226px;
 }
 .button_delete img {
   height: 2em;
@@ -137,12 +137,12 @@ li > input[type="text"] {
 
 /* Edit Task */
 input[type=text] {
-  display: none
+  display: none;
 }
 
 .main-page__item_mode input[type=text] {
   display: inline-block;
-  width: 224px
+  width: 224px;
 }
 
 .main-page__item_mode label {

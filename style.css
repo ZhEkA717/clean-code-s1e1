@@ -40,7 +40,7 @@ body {
   flex-grow: 1;
 }
 
-.main-page__add {
+.main-page__add__content {
   display: flex;
 }
 
@@ -152,7 +152,7 @@ li > input[type="text"] {
 }
 
 /* Completed */
-.main-page__completed label {
+.main-page__completed__content label {
   text-decoration: line-through;
   color: #888;
 }
